@@ -1,0 +1,306 @@
+{
+  "bookings" : {
+    "1bbd5662-835c-76c7-09e2-ce0d8002517d" : {
+      "date" : "2020-06-30",
+      "exhibitId" : "-M9nQw0cuTCAQDoA5Y2V",
+      "hour" : "slot4",
+      "id" : "1bbd5662-835c-76c7-09e2-ce0d8002517d",
+      "uid" : "ObQzIDeI9yNDXXF6UWFYU7FyZ8p2"
+    }
+  },
+  "exhibition" : {
+    "-M9nPGdEUbTuwIU-Cg2k" : {
+      "description" : "A collection of myths",
+      "id" : "-M9nPGdEUbTuwIU-Cg2k",
+      "image" : "http://res.cloudinary.com/dl3c9568n/image/upload/v1592147906/e8bg9fzifhgvscmuh5mx.jpg",
+      "maxBookings" : "3",
+      "maxSpots" : "2",
+      "title" : "Mythology"
+    },
+    "-M9nQw0cuTCAQDoA5Y2V" : {
+      "description" : "Everyday life paintings",
+      "id" : "-M9nQw0cuTCAQDoA5Y2V",
+      "image" : "http://res.cloudinary.com/dl3c9568n/image/upload/v1592148340/s0d8u29fjbvvpzwqesxv.jpg",
+      "maxBookings" : "3",
+      "maxSpots" : "3",
+      "title" : "Elements of Art"
+    },
+    "xYz01" : {
+      "description" : "Antiques objects portrayed",
+      "id" : "xYz01",
+      "image" : "https://nrs.harvard.edu/urn-3:HUAM:DDC251040_dynmc",
+      "maxBookings" : 5,
+      "maxSpots" : "3",
+      "title" : "Antiques"
+    },
+    "xYz02" : {
+      "description" : "The most wonderful landscapes",
+      "id" : "xYz02",
+      "image" : "https://ids.lib.harvard.edu/ids/view/47521067",
+      "maxBookings" : 2,
+      "maxSpots" : 2,
+      "title" : "Landscapes"
+    }
+  },
+  "exhibition_object" : {
+    "-M9nPGdEUbTuwIU-Cg2k" : {
+      "-M9nLkyw_tOrwN2gBAi5" : true,
+      "-M9nM97hKZRs3AeaklHr" : true,
+      "-M9nMULk9ijl6CqotOOP" : true,
+      "-M9nN7lxFQB5M9xS-IpO" : true,
+      "-M9nNZd9IQiGLxHUdafe" : true,
+      "-M9nNy8Ctxx8vLXdpL0v" : true,
+      "-M9nOLcTbruwBB3QXrXi" : true
+    },
+    "-M9nQw0cuTCAQDoA5Y2V" : {
+      "-M9nRIMzpA9hzBAFsm6V" : true,
+      "-M9nRhV15N-F_vEhio_N" : true,
+      "-M9nRxI620ekDBiShgbI" : true,
+      "-M9nSE37OBfJN3BgbIkW" : true,
+      "-M9nSUEsOWt7OXqHBlxV" : true,
+      "-M9nTuQ4h0xhZOS8znYo" : true
+    },
+    "xYz01" : {
+      "yXz01" : true,
+      "yXz02" : true,
+      "yXz03" : true,
+      "yXz04" : true
+    },
+    "xYz02" : {
+      "yXz01" : true,
+      "yXz02" : true
+    }
+  },
+  "hour_slots" : {
+    "slot1" : "09:00am to 10:00am",
+    "slot2" : "10:00am to 11:00am",
+    "slot3" : "11:00am to 12:00pm",
+    "slot4" : "12:00pm to 13:00pm",
+    "slot5" : "13:00pm to 14:00pm",
+    "slot6" : "14:00pm to 15:00pm"
+  },
+  "object" : {
+    "-M9nLkyw_tOrwN2gBAi5" : {
+      "artist" : "Giovanni Battista Tiepolo",
+      "artistInfo" : "Italian, 1696 - 1770",
+      "classification" : "Painting",
+      "date" : "1755/1760",
+      "dimensions" : "overall: 68.5 x 87 cm",
+      "image" : "http://res.cloudinary.com/dl3c9568n/image/upload/v1592146986/eg9qwhq7qldes7vixjzx.jpg",
+      "medium" : "oil on canvas",
+      "title" : "Apollo Pursuing Daphne"
+    },
+    "-M9nM97hKZRs3AeaklHr" : {
+      "artist" : "Luca Giordano",
+      "artistInfo" : "Neapolitan, 1634 - 1705",
+      "classification" : "Painting",
+      "date" : "1675/1680",
+      "dimensions" : "overall: 149.2 x 164 cm",
+      "image" : "http://res.cloudinary.com/dl3c9568n/image/upload/v1592147090/elozcrtb5czaytnagpza.jpg",
+      "medium" : "oil on canvas",
+      "title" : "Diana and Endymion"
+    },
+    "-M9nMULk9ijl6CqotOOP" : {
+      "artist" : "Jean Honoré Fragonard",
+      "artistInfo" : "French, 1732 - 1806",
+      "classification" : "Painting",
+      "date" : "1753/1756",
+      "dimensions" : "overall: 94.9 x 136.8 cm",
+      "image" : "http://res.cloudinary.com/dl3c9568n/image/upload/v1592147176/tmjim56wxzs5fn5siljs.jpg",
+      "medium" : "oil on canvas",
+      "title" : "Diana and Endymion"
+    },
+    "-M9nN7lxFQB5M9xS-IpO" : {
+      "artist" : "Pietro de Angelis",
+      "artistInfo" : "Venetian, c. 1730s - 1800",
+      "classification" : "Drawing",
+      "date" : "18th century",
+      "dimensions" : "overall: 18 x 24.7 cm",
+      "image" : "http://res.cloudinary.com/dl3c9568n/image/upload/v1592147341/thvn7cijerejkdgfpreg.jpg",
+      "medium" : "pen on laid paper",
+      "title" : "Chariot of Ceres"
+    },
+    "-M9nNZd9IQiGLxHUdafe" : {
+      "artist" : "Jacob Jordaens",
+      "artistInfo" : "Flemish, 1593 - 1678",
+      "classification" : "Print",
+      "date" : "probably 1652",
+      "dimensions" : "N/S",
+      "image" : "http://res.cloudinary.com/dl3c9568n/image/upload/v1592147460/bnabiwbpkztwgjv2xhrr.jpg",
+      "medium" : "etching",
+      "title" : "Jupiter Nourished by the Goat Amalthea"
+    },
+    "-M9nNy8Ctxx8vLXdpL0v" : {
+      "artist" : "Sir Peter Paul Rubens",
+      "artistInfo" : "Flemish, 1577 - 1640",
+      "classification" : "Painting",
+      "date" : "1604/1605",
+      "dimensions" : "overall: 98.4 x 131.2 cm",
+      "image" : "http://res.cloudinary.com/dl3c9568n/image/upload/v1592147564/nsnr1uk1tnztx3vtrr4k.jpg",
+      "medium" : "oil on canvas",
+      "title" : "The Fall of Phaeton"
+    },
+    "-M9nOLcTbruwBB3QXrXi" : {
+      "artist" : "Joseph Wright",
+      "artistInfo" : "British, 1734 - 1797",
+      "classification" : "Painting",
+      "date" : "1782-1784",
+      "dimensions" : "overall: 106.3 x 130.8 cm",
+      "image" : "http://res.cloudinary.com/dl3c9568n/image/upload/v1592147663/dz0aexznojilkcl34fvp.jpg",
+      "medium" : "oil on canvas",
+      "title" : "The Corinthian Maid"
+    },
+    "-M9nRIMzpA9hzBAFsm6V" : {
+      "artist" : "Fitz Henry Lane",
+      "artistInfo" : "American, 1804 - 1865",
+      "classification" : "Painting",
+      "date" : "1863",
+      "dimensions" : "overall: 62.5 x 96.8 cm",
+      "image" : "http://res.cloudinary.com/dl3c9568n/image/upload/v1592148438/scr8hr6lmte2qt8ijt9j.jpg",
+      "medium" : "oil on canvas",
+      "title" : "     Lumber Schooners at Evening on Penobscot Bay"
+    },
+    "-M9nRhV15N-F_vEhio_N" : {
+      "artist" : "Joseph Decker",
+      "artistInfo" : "American, 1853 - 1924",
+      "classification" : "Painting",
+      "date" : "1885",
+      "dimensions" : "overall: 22.9 x 27.8 cm",
+      "image" : "http://res.cloudinary.com/dl3c9568n/image/upload/v1592148545/kmtlgxjocgat5miim5wc.jpg",
+      "medium" : "oil on canvas",
+      "title" : "Green Plums"
+    },
+    "-M9nRxI620ekDBiShgbI" : {
+      "artist" : "Martin Johnson Heade",
+      "artistInfo" : "American, 1819 - 1904",
+      "classification" : "Painting",
+      "date" : "1890",
+      "dimensions" : "overall: 38.4 x 61.5 cm",
+      "image" : "http://res.cloudinary.com/dl3c9568n/image/upload/v1592148608/wupjxlkgwatjcvuiksyd.jpg",
+      "medium" : "oil on canvas",
+      "title" : "Giant Magnolias on a Blue Velvet Cloth"
+    },
+    "-M9nSE37OBfJN3BgbIkW" : {
+      "artist" : "George Stubbs",
+      "artistInfo" : "British, 1724 - 1806",
+      "classification" : "Painting",
+      "date" : "1780",
+      "dimensions" : "overall: 127 x 101.5 cm ",
+      "image" : "http://res.cloudinary.com/dl3c9568n/image/upload/v1592148681/cyelvy5y1ntwccbw8n8k.jpg",
+      "medium" : "oil on canvas",
+      "title" : "White Poodle in a Punt"
+    },
+    "-M9nSUEsOWt7OXqHBlxV" : {
+      "artist" : "Martin Johnson Heade",
+      "artistInfo" : "American, 1819 - 1904",
+      "classification" : "Painting",
+      "date" : "1871",
+      "dimensions" : "overall: 34.8 x 45.6 cm",
+      "image" : "http://res.cloudinary.com/dl3c9568n/image/upload/v1592148748/roctg3imjmegpcxg5i5s.jpg",
+      "medium" : "oil on canvas",
+      "title" : "Cattleya Orchid and Three Hummingbirds"
+    },
+    "-M9nTuQ4h0xhZOS8znYo" : {
+      "artist" : "Edward Hopper",
+      "artistInfo" : "American, 1882 - 1967",
+      "classification" : "Painting",
+      "date" : "1939",
+      "dimensions" : "overall: 91.92 × 127.16 cm",
+      "image" : "http://res.cloudinary.com/dl3c9568n/image/upload/v1592149122/ib9myjn3wtuqm6uliu08.jpg",
+      "medium" : "oil on canvas",
+      "title" : "Ground Swell"
+    },
+    "yXz01" : {
+      "artist" : "Hannah Brown Skeele",
+      "artistInfo" : "American, 1829 - 1901",
+      "classification" : "Painting",
+      "date" : "19th century",
+      "dimensions" : "\"overall: 37.15 × 27.94 cm (14 5/8 × 11 in.) ",
+      "image" : "https://images.nga.gov/?service=asset&action=show_preview&asset=164580",
+      "medium" : "oil on wood",
+      "title" : "Vase of Morning Glories"
+    },
+    "yXz02" : {
+      "artist" : "Jeremiah Pearson Hardy",
+      "artistInfo" : "American, 1800 - 1888",
+      "classification" : "Painting",
+      "date" : "not specified",
+      "dimensions" : "overall: 21.59 × 26.67 cm ",
+      "image" : "https://images.nga.gov/?service=asset&action=show_preview&asset=164576",
+      "medium" : "oil on board",
+      "title" : "Two McLaughlin Pears"
+    },
+    "yXz03" : {
+      "artist" : "Edward Hopper",
+      "artistInfo" : "American, 1882 - 1967",
+      "classification" : "Painting",
+      "date" : 1939,
+      "dimensions" : "overall: 91.92 × 127.16 cm (36 3/16 × 50 1/16 in.) framed: 127.3 × 152.4 cm (50 1/8 × 60 in.)",
+      "image" : "https://images.nga.gov/?service=asset&action=show_preview&asset=148908",
+      "medium" : "oil on canvas",
+      "title" : "Ground Swell"
+    },
+    "yXz04" : {
+      "artist" : "Luca Giordano",
+      "artistInfo" : "Neapolitan, 1634 - 1705",
+      "classification" : "Painting",
+      "date" : "1675/1680",
+      "dimensions" : "overall: 149.2 x 164 cm (58 3/4 x 64 9/16 in.) framed: 170.2 x 185.4 x 9.2 cm (67 x 73 x 3 5/8 in.)",
+      "image" : "https://images.nga.gov/?service=asset&action=show_preview&asset=149280",
+      "medium" : "oil on canvas",
+      "title" : "Diana and Endymion"
+    }
+  },
+  "users" : {
+    "8bkG0ThFKZNf7LpAgBSC3vhhfLm2" : {
+      "avatar" : "https://res.cloudinary.com/dl3c9568n/image/upload/v1591808271/blank-profile-picture-973460_960_720_mfcfwa.webp",
+      "email" : "gg@gg.gg",
+      "firstName" : "First Name",
+      "lastName" : "Last name",
+      "role" : "user"
+    },
+    "CxHGN12gJzWpCU5eEyW7osu0cAt1" : {
+      "avatar" : "https://res.cloudinary.com/dl3c9568n/image/upload/v1591808271/blank-profile-picture-973460_960_720_mfcfwa.webp",
+      "email" : "new@address.com",
+      "firstName" : "First Name",
+      "lastName" : "Last name",
+      "role" : "user"
+    },
+    "ObQzIDeI9yNDXXF6UWFYU7FyZ8p2" : {
+      "avatar" : "https://res.cloudinary.com/dl3c9568n/image/upload/v1592751887/roiy5yacfssbd0ca1uip.jpg",
+      "email" : "aa@aa.aa",
+      "firstName" : "First Name",
+      "lastName" : "Last Name",
+      "role" : "admin"
+    },
+    "QqpXK4Hlb2OlC2IeMMyn6g6mcLv2" : {
+      "avatar" : "https://res.cloudinary.com/dl3c9568n/image/upload/v1591808271/blank-profile-picture-973460_960_720_mfcfwa.webp",
+      "email" : "TESTEMAILADDRESS@YAHOO.COM",
+      "firstName" : "First Name",
+      "lastName" : "Last name",
+      "role" : "user"
+    },
+    "bDn9LxAxdIbrFXVcSp6VCklDgn12" : {
+      "avatar" : "https://res.cloudinary.com/dl3c9568n/image/upload/v1591808271/blank-profile-picture-973460_960_720_mfcfwa.webp",
+      "email" : "test1@abc.com",
+      "firstName" : "First Name",
+      "lastName" : "Last name",
+      "role" : "user"
+    },
+    "fJO7cp3og9No4oTcwCb5IhMQZHl2" : {
+      "avatar" : "user avatar",
+      "email" : "cc@cc.cc",
+      "firstName" : "First Name",
+      "lastName" : "Last name",
+      "role" : "user"
+    },
+    "fPQKzJciwaMqiO3urXn6g4JvPTQ2" : {
+      "avatar" : "https://res.cloudinary.com/dl3c9568n/image/upload/v1592505248/f73fb0dnous8dokucexo.png",
+      "email" : "bb@bb.bb",
+      "firstName" : "First name",
+      "lastName" : "Last name",
+      "role" : "user"
+    },
+    "userLimit" : 3
+  }
+}
